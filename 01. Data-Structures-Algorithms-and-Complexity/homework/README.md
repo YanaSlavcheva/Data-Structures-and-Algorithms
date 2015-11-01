@@ -95,3 +95,4 @@
   Console.WriteLine(CalcSum(matrix, 0));
   ```
 Answer: The expected running time of the code is O(n*m). The complexity is n*m.
+P.S. Note that there are comments in the code above.
