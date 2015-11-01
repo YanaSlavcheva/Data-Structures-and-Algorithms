@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem07-NumbersOccurencie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem08-Majorant", "Problem08-Majorant\Problem08-Majorant.csproj", "{95C63DDE-5314-457C-A8D5-3773ED5B51F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem09-CustomSequence", "Problem09-CustomSequence\Problem09-CustomSequence.csproj", "{6D1523D9-FDB3-48E7-BF67-8A69BA1E588C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{95C63DDE-5314-457C-A8D5-3773ED5B51F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95C63DDE-5314-457C-A8D5-3773ED5B51F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95C63DDE-5314-457C-A8D5-3773ED5B51F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1523D9-FDB3-48E7-BF67-8A69BA1E588C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1523D9-FDB3-48E7-BF67-8A69BA1E588C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1523D9-FDB3-48E7-BF67-8A69BA1E588C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1523D9-FDB3-48E7-BF67-8A69BA1E588C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
