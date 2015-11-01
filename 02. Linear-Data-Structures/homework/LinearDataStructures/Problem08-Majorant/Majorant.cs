@@ -2,16 +2,17 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Problem07_NumbersOccurencies
+namespace Problem08_Majorant
 {
-    class NumbersOccurencies
+    class Majorant
     {
         static void Main(string[] args)
         {
-            //Write a program that finds in given array of integers (all belonging to the range[0..1000])
-            //how many times each of them occurs.
+            //*The majorant of an array of size N is a value that occurs in it at least N/ 2 + 1 times.
+            //Write a program to find the majorant of given array (if exists).
 
-            List<int> numbers = new List<int> { 3, 4, 4, 2, 3, 3, 4, 3, 2 };
+            List<int> numbers = new List<int> { 2, 2, 3, 3, 2, 3, 4, 3, 3 };
+            var neededOccurencies = numbers.Count/2 + 1;
 
             Dictionary<int, int> occurencies = new Dictionary<int, int>();
             GetOccurenciesForEachNumber(numbers, occurencies);
@@ -21,7 +22,10 @@ namespace Problem07_NumbersOccurencies
 
             foreach (var key in keys)
             {
-                Console.WriteLine("{0} -> {1} times", key, occurencies[key]);
+                if (occurencies[key] >= neededOccurencies)
+                {
+                    Console.WriteLine(key);
+                }
             }
         }
 
