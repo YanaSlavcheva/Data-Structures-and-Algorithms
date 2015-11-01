@@ -22,7 +22,7 @@ namespace Problem06_OddOccurNumbers
         {
             foreach (var pair in occurencies)
             {
-                if (pair.Value%2 != 0)
+                if (pair.Value % 2 != 0)
                 {
                     bool areAnyNumbersLeft = true;
                     while (areAnyNumbersLeft)
