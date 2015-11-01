@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem08-Majorant", "Probl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem09-CustomSequence", "Problem09-CustomSequence\Problem09-CustomSequence.csproj", "{6D1523D9-FDB3-48E7-BF67-8A69BA1E588C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem10-ShortestSequence", "Problem10-ShortestSequence\Problem10-ShortestSequence.csproj", "{60813F45-BFE7-4B7E-8E35-8614EB14FB76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{6D1523D9-FDB3-48E7-BF67-8A69BA1E588C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D1523D9-FDB3-48E7-BF67-8A69BA1E588C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D1523D9-FDB3-48E7-BF67-8A69BA1E588C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60813F45-BFE7-4B7E-8E35-8614EB14FB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60813F45-BFE7-4B7E-8E35-8614EB14FB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60813F45-BFE7-4B7E-8E35-8614EB14FB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60813F45-BFE7-4B7E-8E35-8614EB14FB76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
