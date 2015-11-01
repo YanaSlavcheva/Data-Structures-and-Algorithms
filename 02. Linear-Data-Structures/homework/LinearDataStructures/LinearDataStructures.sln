@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01-SumAndAverage", "Problem01\Problem01-SumAndAverage.csproj", "{C5E823C1-8CA3-4BA0-AC0C-ED3FB3A2E6CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01-SumAndAverage", "Problem01-SumAndAverage\Problem01-SumAndAverage.csproj", "{C5E823C1-8CA3-4BA0-AC0C-ED3FB3A2E6CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02-ReverseIntegers", "Problem2-ReverseIntegers\Problem02-ReverseIntegers.csproj", "{056AEC31-DD66-4E32-884B-AB4A8B83159D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02-ReverseIntegers", "Problem02-ReverseIntegers\Problem02-ReverseIntegers.csproj", "{056AEC31-DD66-4E32-884B-AB4A8B83159D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03-OrderAscending", "Problem03-OrderAscending\Problem03-OrderAscending.csproj", "{FBBC0436-6820-489F-BB5A-B467EA9A7EFC}"
 EndProject
