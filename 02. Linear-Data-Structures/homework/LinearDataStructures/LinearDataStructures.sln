@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03-OrderAscending", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem04-LongestSubsequence", "Problem04-LongestSubsequence\Problem04-LongestSubsequence.csproj", "{F99474C3-2791-4497-A8F9-CA8FC14430DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem05-RemoveNegativeNumbers", "Problem05-RemoveNegativeNumbers\Problem05-RemoveNegativeNumbers.csproj", "{82B28B7B-E69A-4F9F-BA36-A6DD95469037}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F99474C3-2791-4497-A8F9-CA8FC14430DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F99474C3-2791-4497-A8F9-CA8FC14430DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F99474C3-2791-4497-A8F9-CA8FC14430DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B28B7B-E69A-4F9F-BA36-A6DD95469037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B28B7B-E69A-4F9F-BA36-A6DD95469037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B28B7B-E69A-4F9F-BA36-A6DD95469037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B28B7B-E69A-4F9F-BA36-A6DD95469037}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
